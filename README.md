@@ -12,11 +12,18 @@
 
 만든내용
 
-
+```html
 <script src="https://kit.fontawesome.com/f1613db75d.js" crossorigin="anonymous"></script>
 ```
+```html
 <i class="fa-solid fa-house"></i>
+```
+```html
 <i class="fa-solid fa-magnifying-glass"></i>
+```
+```html
 <i class="fa-solid fa-address-book"></i>
+```
+```html
 <i class="fa-solid fa-arrow-right-to-bracket"></i>
 ```
