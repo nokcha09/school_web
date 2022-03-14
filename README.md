@@ -15,7 +15,7 @@
 
 
 #### 소스코드
-> 폰트어섬
+> 폰트어섬 [링크](https://fontawesome.com/)
 ```html
 <script src="https://kit.fontawesome.com/f1613db75d.js" crossorigin="anonymous"></script>
 ```
