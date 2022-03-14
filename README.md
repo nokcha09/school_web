@@ -1,20 +1,26 @@
 # school_web
 
 3월 11일 (study_menu)
-메뉴바 만들기 실습
+##메뉴바 만들기 실습
 
-만든내용
+####만든내용
 - 메뉴바 만들기
 - 아이콘 적용하기(.env 참조)
 
+- - -
 3월 14일 (study_menu)
-메뉴바 만들기 실습
+##메뉴바 만들기 실습
 
-만든내용
+####만든내용
 
+
+####소스코드
+> 폰트어섬
 ```html
 <script src="https://kit.fontawesome.com/f1613db75d.js" crossorigin="anonymous"></script>
 ```
+
+> 아이콘들
 ```html
 <i class="fa-solid fa-house"></i>
 ```
