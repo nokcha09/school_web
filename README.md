@@ -14,3 +14,7 @@
 
 
 <script src="https://kit.fontawesome.com/f1613db75d.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-house"></i>
+<i class="fa-solid fa-magnifying-glass"></i>
+<i class="fa-solid fa-address-book"></i>
+<i class="fa-solid fa-arrow-right-to-bracket"></i>
