@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.menu{
+    background-color: #777;
+}
+.menu a {
+    padding: 12px;
+    display: inline-block;
+    font-size: 18px;
+}
+.menua:hover{
+    background-color: teal;
+}
