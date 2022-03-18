@@ -41,7 +41,8 @@
 <img src="/md_finish/study_button.png" alt="study_button">
 
 #### 만든내용
-- 버튼만들기
+- 버튼 만들기
+- 디자인 적용하기
 
 - - -
 선린인터넷 고등학교 2학년 11반의 웹프 수업 내용 기록용
