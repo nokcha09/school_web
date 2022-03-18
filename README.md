@@ -8,7 +8,7 @@
 ### 메뉴바 만들기 실습
 
 #### 완성 이미지
-<img src="/md_finish/study_menu.png">
+<img src="/md_finish/study_menu.png" alt="study_menu">
 
 #### 만든내용
 - 아이콘 적용하기(외부소스코드)
@@ -38,7 +38,7 @@
 ### 버튼 만들기 실습
 
 #### 완성 이미지
-<img src="/md_finish/study_button.png">
+<img src="/md_finish/study_button.png" alt="study_button">
 
 #### 만든내용
 - 버튼만들기
