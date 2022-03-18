@@ -7,7 +7,7 @@
 ## 3월 14일 (study_menu)
 ### 메뉴바 만들기 실습
 
-### 완성 이미지
+#### 완성 이미지
 <img src="/md_finish/study_menu.png">
 
 #### 만든내용
@@ -36,6 +36,9 @@
 
 ## 3월 18일 (study_button)
 ### 버튼 만들기 실습
+
+#### 완성 이미지
+<img src="/md_finish/study_button.png">
 
 #### 만든내용
 - 버튼만들기
