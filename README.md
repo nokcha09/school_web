@@ -1,11 +1,11 @@
-## 3월 11일 (study_menu)
-### 메뉴바 만들기 실습
+## 3월 11일
+### 메뉴바 만들기 실습 (study_menu)
 
 #### 만든내용
 - 메뉴바 만들기
 
-## 3월 14일 (study_menu)
-### 메뉴바 만들기 실습
+## 3월 14일
+### 메뉴바 만들기 실습 (study_menu)
 
 #### 완성 이미지
 <img src="/md_finish/study_menu.png" alt="study_menu">
@@ -34,8 +34,8 @@
 <i class="fa-solid fa-arrow-right-to-bracket"></i>
 ```
 
-## 3월 18일 (study_button)
-### 버튼 만들기 실습
+## 3월 18일
+### 버튼 만들기 실습 (study_button)
 
 #### 완성 이미지
 <img src="/md_finish/study_button.png" alt="study_button">
