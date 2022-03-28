@@ -1,11 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ch">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        .gra{
+            font-family: 'Bauhaus 93';
+            font-size: 4em;
+            font-weight: bold;
+            letter-spacing: 5px;
+            word-spacing: 5px;
+            text-align: center;
+            color: transparent;
+
+
+            background: linear-gradient(90deg,red,yellow)   ;
+            background-size: 200%;
+            animation: animate 10s linear infinite;
+            
+            -webkit-background-clip: text;
+        }
+        @keyframes animate{
+            0%{background-position: 0%;}
+            50%{background-position: 100%;}
+            100%{background-position: 0%;}
+        }
+    </style>
 </head>
 <body>
-    
+    <div class="gra">
+        Web design
+    </div>
 </body>
 </html>
