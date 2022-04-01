@@ -5,17 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        body{
+            position: relative;
+            margin: 0;
+        }
+        .parent{
+            width: 400px;
+            height: 500px;
+            background-color: rgb(131,171,231);
+            position: relative;
+        }
         .child1{
             width: 50px;
             height: 100px;
             background-color: gold;
             position: absolute;
             bottom: 0;
-            right: 0;
+            left: 50%;
         }
     </style>
 </head>
 <body>
-    <div class="child1"></div>
+    <div class="parent">
+        <div class="child1"></div>
+    </div>
 </body>
 </html>
