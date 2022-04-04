@@ -89,6 +89,9 @@
 
 ### 네온사인만들기 ([study_neon](https://github.com/nokcha09/school_web/tree/main/study_neon))
 
+#### 완성 이미지
+<img src="/study_neon/study_neon.png" alt="study_neon">
+
 #### 만든내용
 - 네온 만들기
 
