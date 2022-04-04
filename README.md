@@ -8,13 +8,13 @@
 # 일자별 수업 내용 정리
 
 ## 3월 11일
-### 메뉴바 만들기 실습 (study_menu)
+### 메뉴바 만들기 실습 ([study_menu](https://github.com/nokcha09/school_web/tree/main/study_menu))
 
 #### 만든내용
 - 메뉴바 만들기
 
 ## 3월 14일
-### 메뉴바 만들기 실습 (study_menu)
+### 메뉴바 만들기 실습 ([study_menu](https://github.com/nokcha09/school_web/tree/main/study_menu))
 
 #### 완성 이미지
 <img src="/study_menu/study_menu.png" alt="study_menu">
@@ -44,7 +44,7 @@
 ```
 
 ## 3월 18일
-### 버튼 만들기 실습 (study_button)
+### 버튼 만들기 실습 ([study_button](https://github.com/nokcha09/school_web/tree/main/study_button))
 
 #### 완성 이미지
 <img src="/study_button/study_button.png" alt="study_button">
@@ -54,7 +54,7 @@
 - 디자인 적용하기
 
 ## 3월 28일
-### 그라데이션 만들기 (study_color)
+### 그라데이션 만들기 ([study_color](https://github.com/nokcha09/school_web/tree/main/study_color))
 
 #### 완성 이미지
 <img src="/study_color/study_color.png" alt="study_color">
@@ -63,7 +63,7 @@
 - 그라데이션 글자 만들기
 - 글자에 애니메이션 적용하기
 
-### 가운데 정렬 만들기 (study_middle)
+### 가운데 정렬 만들기 ([study_middle](https://github.com/nokcha09/school_web/tree/main/study_middle))
 
 #### 완성 이미지
 <img src="/study_middle/study_middle.png" alt="study_middle">
@@ -79,7 +79,7 @@
 - 포지션에 대한 이해
 
 ## 4월 4일
-### 동물만들기 (study_pos)
+### 동물만들기 ([study_pos](https://github.com/nokcha09/school_web/tree/main/study_pos))
 
 #### 만든내용
 - 동물 만들기
