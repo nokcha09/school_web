@@ -93,6 +93,7 @@
 <img src="/study_neon/study_neon.png" alt="study_neon">
 
 #### 만든내용
+- 애니메이션에 대한 이해
 - 네온 만들기
 
 - - -
