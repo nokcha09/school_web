@@ -73,7 +73,7 @@
 - 주변부에 투명 박스 만들기
 
 ## 4월 1일
-### 동물만들기 ([study_pos](/tree/main/study_pos))
+### 동물만들기 ([study_pos](https://github.com/nokcha09/school_web/tree/main/study_pos))
 
 #### 만든내용
 - 포지션에 대한 이해
