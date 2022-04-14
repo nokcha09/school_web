@@ -96,5 +96,16 @@
 - 애니메이션에 대한 이해
 - 네온 만들기
 
+## 4월 8일
+### 로그인페이지 만들기 ([study_login](https://github.com/nokcha09/school_web/tree/main/study_login))
+
+#### 만든내용
+- 백그라운드 이미지 적용하기
+- 가운데 박스 만들기
+- 로그인 디자인 적용하기
+
+## 4월 11일
+### 로그인페이지 만들기 ([study_login](https://github.com/nokcha09/school_web/tree/main/study_login))
+
 - - -
 선린인터넷 고등학교 2학년 11반의 웹프 수업 내용 기록용

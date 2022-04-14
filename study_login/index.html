@@ -42,8 +42,19 @@
             margin-bottom: 30px;
             text-transform: capitalize;
         }
-        .content input:last-child{
+        .content input[type=submit]{
+            border: 0;
+            font-style: 20px;
+            letter-spacing: 3px;
+            background: linear-gradient(45deg,gold,darkorange);
+            border-radius: 10px;
+            color: white;
+            transition: all 0.3s ease;
             text-transform: uppercase;
+        }
+        .content input[type=submit]:active{
+            transform: scale(0.95);
+            box-shadow: 0 5px 10px black;
         }
     </style>
 </head>
