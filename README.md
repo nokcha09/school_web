@@ -128,7 +128,8 @@
 <img src="/study_imgsizing/study_imgsizing.png" alt="study_imgsizing">
 
 #### 만든 내용
-- 
+- 이미지 애니메이션 적용하기
+- 디자인 적용하기
 
 - - -
 선린인터넷 고등학교 2학년 11반의 웹프 수업 내용 기록용
