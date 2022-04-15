@@ -107,5 +107,22 @@
 ## 4월 11일
 ### 로그인페이지 만들기 ([study_login](https://github.com/nokcha09/school_web/tree/main/study_login))
 
+#### 만든내용
+- 디자인 적용하기
+
+### 탭 메뉴 만들기([study_input](https://github.com/nokcha09/school_web/tree/main/study_input))
+
+#### 만등내용
+- input에 대한 이해
+- radio 타입은 무엇인가
+- radio를 이용해 박스 바꾸기
+
+## 4월 15일
+
+### 마우스 오버하면 커지는 이미지([study_imgsizing](https://github.com/nokcha09/school_web/tree/main/study_imgsizing))
+
+#### 만든 내용
+- 
+
 - - -
 선린인터넷 고등학교 2학년 11반의 웹프 수업 내용 기록용
