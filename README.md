@@ -108,7 +108,7 @@
 ### 로그인페이지 만들기 ([study_login](https://github.com/nokcha09/school_web/tree/main/study_login))
 
 #### 완성 이미지
-<img src="/study_color/study_login.png" alt="study_login">
+<img src="/study_login/study_login.png" alt="study_login">
 
 #### 만든내용
 - 디자인 적용하기
