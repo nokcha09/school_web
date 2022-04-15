@@ -6,15 +6,16 @@
     <title>Document</title>
     <style>
         .box{
+            width: 200px;
+            height: 200px;
             position: absolute;
             top: 50%;
             left: 50%;
             transform: translate(-50%,-50%);
-            border: 5px solid black;
             overflow: hidden;
         }
         .box > img {
-            
+            transition: transform 0.3s;
         }
         /* 공백이라면 모든자손을 선택 */
         /* > 는 첫번쨰 자식 선택 */
