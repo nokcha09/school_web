@@ -124,6 +124,9 @@
 
 ### 마우스 오버하면 커지는 이미지([study_imgsizing](https://github.com/nokcha09/school_web/tree/main/study_imgsizing))
 
+#### 완성 이미지
+<img src="/study_imgsizing/study_imgsizing.png" alt="study_imgsizing">
+
 #### 만든 내용
 - 
 
