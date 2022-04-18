@@ -30,7 +30,7 @@
 수업 중 이미지를 빠르게 구해야 하기 때문에 무분별한 저작권 사용하게 되었습니다. </br>
 사과의 말씀 드리며, 시간날때 마다 이미지를 제가 직접 찍은 사진으로 변경할 예정입니다.
 
-</br></br></br>
+</br></br>
 
 # 일자별 수업 내용 정리
 
@@ -171,7 +171,7 @@
 ### 박스사이징([상세설명](https://github.com/nokcha09/school_web/tree/main/study_boxsizing))
 
 ### 완성 이미지
-<img src="/study_input/study_boxsizing.png" alt="완성이미지">
+<img src="/study_boxsizing/study_boxsizing.png" alt="완성이미지">
 
 #### 학습내용
 - 박스 사이징사용
