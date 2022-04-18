@@ -35,7 +35,7 @@
 ## 3월 11일
 ### 메뉴바 만들기 실습 ([상세설명](https://github.com/nokcha09/school_web/tree/main/study_menu))
 
-#### 만든내용
+#### 학습내용
 - 메뉴바 만들기
 
 ## 3월 14일
@@ -44,7 +44,7 @@
 #### 완성 이미지
 <img src="/study_menu/study_menu.png" alt="완성이미지">
 
-#### 만든내용
+#### 학습내용
 - 아이콘 적용하기(외부소스코드)
 - 디자인 적용하기
 
@@ -74,7 +74,7 @@
 #### 완성 이미지
 <img src="/study_button/study_button.png" alt="완성이미지">
 
-#### 만든내용
+#### 학습내용
 - 버튼 만들기
 - 디자인 적용하기
 
@@ -84,7 +84,7 @@
 #### 완성 이미지
 <img src="/study_color/study_color.png" alt="완성이미지">
 
-#### 만든내용
+#### 학습내용
 - 그라데이션 글자 만들기
 - 글자에 애니메이션 적용하기
 
@@ -93,14 +93,14 @@
 #### 완성 이미지
 <img src="/study_middle/study_middle.png" alt="완성이미지">
 
-#### 만든내용
+#### 학습내용
 - 글자박스를 만들어 가운데 고정
 - 주변부에 투명 박스 만들기
 
 ## 4월 1일
 ### 동물만들기 ([상세설명](https://github.com/nokcha09/school_web/tree/main/study_pos))
 
-#### 만든내용
+#### 학습내용
 - 포지션에 대한 이해
 
 ## 4월 4일
@@ -109,7 +109,7 @@
 #### 완성 이미지
 <img src="/study_pos/study_pos.png" alt="완성이미지">
 
-#### 만든내용
+#### 학습내용
 - 동물 만들기
 
 ### 네온사인만들기 ([상세설명](https://github.com/nokcha09/school_web/tree/main/study_neon))
@@ -117,14 +117,14 @@
 #### 완성 이미지
 <img src="/study_neon/study_neon.png" alt="완성이미지">
 
-#### 만든내용
+#### 학습내용
 - 애니메이션에 대한 이해
 - 네온 만들기
 
 ## 4월 8일
 ### 로그인페이지 만들기 ([상세설명](https://github.com/nokcha09/school_web/tree/main/study_login))
 
-#### 만든내용
+#### 학습내용
 - 백그라운드 이미지 적용하기
 - 가운데 박스 만들기
 - 로그인 디자인 적용하기
@@ -135,7 +135,7 @@
 #### 완성 이미지
 <img src="/study_login/study_login.png" alt="완성이미지">
 
-#### 만든내용
+#### 학습내용
 - 디자인 적용하기
 
 ### 탭 메뉴 만들기([상세설명](https://github.com/nokcha09/school_web/tree/main/study_input))
@@ -170,6 +170,9 @@
 
 ### 완성 이미지
 <img src="/study_input/study_boxsizing.png" alt="완성이미지">
+
+#### 만든 내용
+- 박스 사이징사용
 
 - - -
 선린인터넷 고등학교 2학년 11반의 웹프 수업 내용 기록용
