@@ -14,6 +14,11 @@
         .blue{
             background: turquoise;
         }
+        .tab_content {
+            position: relative;
+            left: 5%;
+            top: 10px;
+        }
         .tab_content input[type=radio]{
             display: none;
 
@@ -23,18 +28,23 @@
             width: 100px;
             height: 30px;
             padding: 3px;
-            background: #ccc;
+            border-radius: 8px 8px 0 0;
+            opacity: 50%;
+            text-align: center;
+            line-height: 30px;
             cursor: pointer;
-            transition: all .3s ease;
         }
         .tab_content input[type=radio]:checked + label{  
-            background: yellowgreen;
+            opacity: 100%;
         }
         .box{
             width: 500px;
             height: 350px;
+            padding: 20px;
             display: none;
-            transition: all .5s ease;
+            border-radius: 10px;
+            position: absolute;
+            left: -20px;
         }
         input[id=tab1]:checked ~ .con1{
             display: block;
@@ -51,11 +61,11 @@
     <div class="tab_content">
         <!-- radion is not duble check and disable -->
         <input type="radio" name="a" id="tab1" checked>
-        <label for="tab1">라벨1</label>
+        <label class="green" for="tab1">라벨1</label>
         <input type="radio" name="a" id="tab2">
-        <label for="tab2">라벨2</label>
+        <label class="red" for="tab2">라벨2</label>
         <input type="radio" name="a" id="tab3">
-        <label for="tab3">라벨3</label>
+        <label class="blue" for="tab3">라벨3</label>
 
         <div class="box con1 green">fdkaflksdfjkla</div>
         <div class="box con2 red">uqorewquoirqwouier</div>
