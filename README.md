@@ -30,6 +30,8 @@
 수업 중 이미지를 빠르게 구해야 하기 때문에 무분별한 저작권 사용하게 되었습니다. </br>
 사과의 말씀 드리며, 시간날때 마다 이미지를 제가 직접 찍은 사진으로 변경할 예정입니다.
 
+</br></br></br>
+
 # 일자별 수업 내용 정리
 
 ## 3월 11일
@@ -152,7 +154,7 @@
 #### 완성 이미지
 <img src="/study_imgsizing/study_imgsizing.png" alt="완성이미지">
 
-#### 만든 내용
+#### 학습내용
 - 이미지 애니메이션 적용하기
 - 디자인 적용하기
 
@@ -163,7 +165,7 @@
 ### 완성 이미지
 <img src="/study_input/study_input.png" alt="완성이미지">
 
-#### 만든 내용
+#### 학습내용
 - 마무리
 
 ### 박스사이징([상세설명](https://github.com/nokcha09/school_web/tree/main/study_boxsizing))
@@ -171,8 +173,13 @@
 ### 완성 이미지
 <img src="/study_input/study_boxsizing.png" alt="완성이미지">
 
-#### 만든 내용
+#### 학습내용
 - 박스 사이징사용
+
+### 아파트 만들기([상세설명](https://github.com/nokcha09/school_web/tree/main/study_apartment))
+
+#### 학습내용
+- 지금까지 배운거 활용 하여 연습해보기
 
 - - -
 선린인터넷 고등학교 2학년 11반의 웹프 수업 내용 기록용
